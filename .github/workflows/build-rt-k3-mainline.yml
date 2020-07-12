@@ -15,9 +15,9 @@ on:
     types: [started]
     
 env:
-  ET0MACADDR: "00:11:22:33:44:55"    
-  MACADDR1_24G: "00:11:22:33:44:66"
-  MACADDR2_5G: "00:11:22:33:44:77"
+  ET0MACADDR: "D8:C8:E9:FE:A5:D8"    
+  MACADDR1_24G: "D8:C8:E9:FE:A5:D9"
+  MACADDR2_5G: "D8:C8:E9:FE:A5:DA"
 
 jobs:
   build:
